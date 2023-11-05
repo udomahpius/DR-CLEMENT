@@ -66,7 +66,7 @@ document.querySelector(".research").addEventListener("click", () => {
 })
 // item two
 document.querySelector(".service").addEventListener("click", () => {
-    titleEl.innerHTML = "NATIONAL/STATE/COMMUNITY SERVICES"
+    titleEl.innerHTML = "NATIONAL/STATE/ " + "<br>" + "COMMUNITY SERVICES"
 })
 // item three
 document.querySelector(".conference").addEventListener("click", () => {
