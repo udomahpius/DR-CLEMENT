@@ -167,6 +167,7 @@ const portfolio = {
             body:` on sales Marketing for Bank of Industry Staff at Limeridge Apartments Ikoyi – Lagos
             Organized by Jedebb Consulting, Lagos.`
         },
+        
     ],
 
     // conferences start
