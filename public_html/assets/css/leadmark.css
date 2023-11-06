@@ -11428,10 +11428,10 @@ textarea.form-control {
   position: relative;
   height: 100vh;
   min-height: 500px;
-  background: url(../../../clament/c-6.jpg) no-repeat center center fixed;
+  background: url(../../../clament/bg-cl2.jpg) no-repeat center center fixed;
   background-size: cover;
   overflow: hidden;
-  background-color:#223819;
+  background-color:#5a9540;
   background-blend-mode: soft-light;
 }
 
